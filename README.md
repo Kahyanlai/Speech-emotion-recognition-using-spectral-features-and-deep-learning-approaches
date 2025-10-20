@@ -49,7 +49,3 @@ The system classifies speech into emotional categories (*Angry, Calm, Happy, Sad
 - **Language:** Python 3.9+  
 - **Libraries:** PyTorch • Librosa • NumPy • OpenCV • Matplotlib • Scikit-learn • Pydub  
 - **Environment:** Jupyter Notebook / Google Colab
-
----
-
-## 📁 Repository Structure
