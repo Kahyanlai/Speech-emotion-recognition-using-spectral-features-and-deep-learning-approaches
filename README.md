@@ -2,7 +2,6 @@
 
 ## 📄 Description
 This project implements **speech emotion recognition (SER)** using both handcrafted **spectral features** and **deep learning** methods.  
-It was developed as part of **SIT789 – Robotics, Computer Vision and Speech Processing (Task 8.2D)**.
 
 The system classifies speech into emotional categories (*Angry, Calm, Happy, Sad*) by:
 - Extracting **Spectral Centroid (SC)**, **Spectral Bandwidth (SBW)**, and **Spectral Band Energy (SBE)** features manually.
