@@ -2,7 +2,6 @@
 
 ## 📘 Overview
 This project investigates how both **handcrafted spectral features** and **deep neural networks** can be applied to recognise human emotions from speech.  
-It was completed as part of **SIT789 – Robotics, Computer Vision and Speech Processing (Task 8.2D)**.
 
 The study implements and compares three main approaches:
 1. Manual extraction of **Spectral Centroid (SC)**, **Spectral Bandwidth (SBW)**, and **Spectral Band Energy (SBE)**.
